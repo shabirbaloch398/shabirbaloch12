@@ -238,7 +238,7 @@ def login():
 		print logo
 		jalan(' \033[1;93mWarning: \033[1;96mDo Not Use Your Personal Account' )
 		jalan(' \033[1;93mWarning: \033[1;96mUse a New Account To Login' )
-		jalan(' \033[1;93mWarning: \033[1;96mTermux  All version Work✅' )       (Subscribe Shabir Baloch Hacker Channel)          
+		jalan(' \033[1;93mWarning: \033[1;96mTermux  All version Work✅')       
 		print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mShabirBaloch\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 		print('	   \033[1;97m▬\x1b[1;94m.........LOGIN WITH FACEBOOK........\x1b[1;97m▬' )
 		print('	' )
